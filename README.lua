@@ -17,8 +17,6 @@ Vocation System
 Loot/Quest/Reward System
 --Monsters will no longer drop gold, only human/humanoid monsters. S1
 --Random quest, will have specific name, but will be a scavenger hunt across the entire map, no limits. S2
-
-Loot Crates
 --Loot crates will be dropped randomly on boss and unique boss death. S1
 --Diamond key will be required to open crate. S1
 --Crates will contain random outfits, mounts, and non-game breaking items. S1
