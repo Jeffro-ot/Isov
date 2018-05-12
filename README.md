@@ -14,7 +14,8 @@ Monster/Boss Engine
 Vocation System
 --There will only be one vocation, Archer. Will explain another time. S1
 
-Quest/Reward System
+Loot/Quest/Reward System
+--Monsters will no longer drop gold, only human/humanoid monsters. S1
 --Random quest, will have specific name, but will be a scavenger hunt across the entire map, no limits. S2
 
 Loot Crates
